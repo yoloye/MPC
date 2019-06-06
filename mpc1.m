@@ -1,5 +1,5 @@
-%Wenrui Ye 
-clc; clear;close all ;
+%Wenrui Ye
+clc; clear all;close all ;
 jw = 0.2125 ;
 jr = 10 ;
 mw = 15 ;
